@@ -3,7 +3,7 @@ entries:
   my-nginx:
   - apiVersion: v2
     appVersion: 1.21.1
-    created: "2025-01-25T15:10:17.166370632Z"
+    created: "2025-01-25T15:44:46.69944755Z"
     description: A Helm chart for deploying an NGINX application
     digest: fd71c54e902170f861307608bbcb2c679dbf8e6f98bdfae6643e9338d6f527c6
     icon: https://raw.githubusercontent.com/nginxinc/nginx-logo/main/nginx-logo.png
@@ -19,4 +19,4 @@ entries:
     urls:
     - https://nkarumanchi27.github.io/na-helm-charts/my-nginx-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-25T15:10:17.165894439Z"
+generated: "2025-01-25T15:44:46.698969344Z"
